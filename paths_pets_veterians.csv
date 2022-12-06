@@ -1,4 +1,4 @@
-origin,destination,duration,price
+origen,destino,distancia,precio
 TCP,CVRC,300,40
 TCP,VAAO,400,50
 TCP,RVFD,500,60
